@@ -1,0 +1,57 @@
+c:\users\pc home\documents\visual studio 2015\Projects\Pets Clinic\Pets Clinic\bin\Debug\Pets Clinic.exe.config
+c:\users\pc home\documents\visual studio 2015\Projects\Pets Clinic\Pets Clinic\bin\Debug\Pets Clinic.exe
+c:\users\pc home\documents\visual studio 2015\Projects\Pets Clinic\Pets Clinic\bin\Debug\Pets Clinic.pdb
+c:\users\pc home\documents\visual studio 2015\Projects\Pets Clinic\Pets Clinic\bin\Debug\AlphaBlendTextBox.dll
+c:\users\pc home\documents\visual studio 2015\Projects\Pets Clinic\Pets Clinic\bin\Debug\Bunifu_UI_v1.5.3.dll
+c:\users\pc home\documents\visual studio 2015\Projects\Pets Clinic\Pets Clinic\obj\Debug\Pets Clinic.csprojResolveAssemblyReference.cache
+c:\users\pc home\documents\visual studio 2015\Projects\Pets Clinic\Pets Clinic\obj\Debug\Pets_Clinic.Properties.Resources.resources
+c:\users\pc home\documents\visual studio 2015\Projects\Pets Clinic\Pets Clinic\obj\Debug\Pets Clinic.csproj.GenerateResource.Cache
+c:\users\pc home\documents\visual studio 2015\Projects\Pets Clinic\Pets Clinic\obj\Debug\Pets Clinic.exe
+c:\users\pc home\documents\visual studio 2015\Projects\Pets Clinic\Pets Clinic\obj\Debug\Pets Clinic.pdb
+c:\users\pc home\documents\visual studio 2015\Projects\Pets Clinic\Pets Clinic\obj\Debug\Pets_Clinic.Login_Form.resources
+c:\users\pc home\documents\visual studio 2015\Projects\Pets Clinic\Pets Clinic\obj\Debug\Pets_Clinic.Main_Form.resources
+c:\users\pc home\documents\visual studio 2015\Projects\Pets Clinic\Pets Clinic\bin\Debug\Circular Animation Button.dll
+c:\users\pc home\documents\visual studio 2015\Projects\Pets Clinic\Pets Clinic\bin\Debug\Circular Animation Button.pdb
+c:\users\pc home\documents\visual studio 2015\Projects\Pets Clinic\Pets Clinic\obj\Debug\Pets_Clinic.Users_Control.Data_Of_Patient.resources
+c:\users\pc home\documents\visual studio 2015\Projects\Pets Clinic\Pets Clinic\bin\Debug\ar-PS\Pets Clinic.resources.dll
+c:\users\pc home\documents\visual studio 2015\Projects\Pets Clinic\Pets Clinic\obj\Debug\Pets_Clinic.Users_Control.Data_Of_Patient.ar-PS.resources
+c:\users\pc home\documents\visual studio 2015\Projects\Pets Clinic\Pets Clinic\obj\Debug\ar-PS\Pets Clinic.resources.dll
+C:\Users\PC HOME\Documents\Visual Studio 2015\Projects\Pets Clinic\Pets Clinic\obj\Debug\Pets_Clinic.Users_Control.Medicines.resources
+C:\Users\PC HOME\Documents\Visual Studio 2015\Projects\Pets Clinic\Pets Clinic\obj\Debug\Pets_Clinic.Users_Control.Staff.resources
+C:\Users\PC HOME\Desktop\Pets Clinic\Pets Clinic\bin\Debug\Pets Clinic.exe.config
+C:\Users\PC HOME\Desktop\Pets Clinic\Pets Clinic\obj\Debug\Pets Clinic.exe
+C:\Users\PC HOME\Desktop\Pets Clinic\Pets Clinic\obj\Debug\Pets Clinic.pdb
+C:\Users\PC HOME\Desktop\Pets Clinic\Pets Clinic\bin\Debug\Pets Clinic.exe
+C:\Users\PC HOME\Desktop\Pets Clinic\Pets Clinic\bin\Debug\Pets Clinic.pdb
+C:\Users\PC HOME\Desktop\Pets Clinic\Pets Clinic\bin\Debug\ar-PS\Pets Clinic.resources.dll
+C:\Users\PC HOME\Desktop\Pets Clinic\Pets Clinic\bin\Debug\Circular Animation Button.dll
+C:\Users\PC HOME\Desktop\Pets Clinic\Pets Clinic\bin\Debug\Circular Animation Button.pdb
+C:\Users\PC HOME\Desktop\Pets Clinic\Pets Clinic\obj\Debug\Pets Clinic.csprojResolveAssemblyReference.cache
+C:\Users\PC HOME\Desktop\Pets Clinic\Pets Clinic\obj\Debug\Pets_Clinic.Login_Form.resources
+C:\Users\PC HOME\Desktop\Pets Clinic\Pets Clinic\obj\Debug\Pets_Clinic.Main_Form.resources
+C:\Users\PC HOME\Desktop\Pets Clinic\Pets Clinic\obj\Debug\Pets_Clinic.Properties.Resources.resources
+C:\Users\PC HOME\Desktop\Pets Clinic\Pets Clinic\obj\Debug\Pets_Clinic.Users_Control.Data_Of_Patient.resources
+C:\Users\PC HOME\Desktop\Pets Clinic\Pets Clinic\obj\Debug\Pets_Clinic.Users_Control.Medicines.resources
+C:\Users\PC HOME\Desktop\Pets Clinic\Pets Clinic\obj\Debug\Pets_Clinic.Users_Control.Staff.resources
+C:\Users\PC HOME\Desktop\Pets Clinic\Pets Clinic\obj\Debug\Pets_Clinic.Users_Control.Data_Of_Patient.ar-PS.resources
+C:\Users\PC HOME\Desktop\Pets Clinic\Pets Clinic\obj\Debug\Pets Clinic.csproj.GenerateResource.Cache
+C:\Users\PC HOME\Desktop\Pets Clinic\Pets Clinic\obj\Debug\ar-PS\Pets Clinic.resources.dll
+E:\College\3\Pets Clinic\Pets Clinic\bin\Debug\Pets Clinic.exe.config
+E:\College\3\Pets Clinic\Pets Clinic\bin\Debug\Pets Clinic.exe
+E:\College\3\Pets Clinic\Pets Clinic\bin\Debug\Pets Clinic.pdb
+E:\College\3\Pets Clinic\Pets Clinic\bin\Debug\ar-PS\Pets Clinic.resources.dll
+E:\College\3\Pets Clinic\Pets Clinic\bin\Debug\Circular Animation Button.dll
+E:\College\3\Pets Clinic\Pets Clinic\bin\Debug\Circular Animation Button.pdb
+E:\College\3\Pets Clinic\Pets Clinic\obj\Debug\Pets Clinic.csprojResolveAssemblyReference.cache
+E:\College\3\Pets Clinic\Pets Clinic\obj\Debug\Pets_Clinic.Login_Form.resources
+E:\College\3\Pets Clinic\Pets Clinic\obj\Debug\Pets_Clinic.Main_Form.resources
+E:\College\3\Pets Clinic\Pets Clinic\obj\Debug\Pets_Clinic.Properties.Resources.resources
+E:\College\3\Pets Clinic\Pets Clinic\obj\Debug\Pets_Clinic.Users_Control.Data_Of_Patient.resources
+E:\College\3\Pets Clinic\Pets Clinic\obj\Debug\Pets_Clinic.Users_Control.Medicines.resources
+E:\College\3\Pets Clinic\Pets Clinic\obj\Debug\Pets_Clinic.Users_Control.Staff.resources
+E:\College\3\Pets Clinic\Pets Clinic\obj\Debug\Pets_Clinic.Users_Control.Data_Of_Patient.ar-PS.resources
+E:\College\3\Pets Clinic\Pets Clinic\obj\Debug\Pets Clinic.csproj.GenerateResource.Cache
+E:\College\3\Pets Clinic\Pets Clinic\obj\Debug\Pets Clinic.csproj.CoreCompileInputs.cache
+E:\College\3\Pets Clinic\Pets Clinic\obj\Debug\ar-PS\Pets Clinic.resources.dll
+E:\College\3\Pets Clinic\Pets Clinic\obj\Debug\Pets Clinic.exe
+E:\College\3\Pets Clinic\Pets Clinic\obj\Debug\Pets Clinic.pdb

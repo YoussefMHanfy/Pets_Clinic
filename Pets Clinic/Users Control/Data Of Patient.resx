@@ -1,0 +1,1194 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="dpinsert.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="dpinsert.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Century Gothic, 10.2pt</value>
+  </data>
+  <data name="dpinsert.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6
+        JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAACXBIWXMAAA3XAAAN1wFCKJt4AAAAB3RJ
+        TUUH4gQREwgz4xRwJAAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAClSURBVDhP
+        7dM9CsJAGIThLUVSiK2kFTvtbLyUXbqkkpzExsKfs6iFpbWH8J2sBqPf+mHvwEM2kBkIIeHHLHDCtLl7
+        yQAb7AxbjKDyDTMc0UObCep4NKPyHnNcUKGTbwPPch8FSmToJDVglZUVxvEYYw2kyoqeVafN+4DeNVVW
+        3IE19GWssuIOXHHAsrn7jDswfFxTcQe8/AeMgRxnWH+jRc/SCeEOQy8vrbPgPzcAAAAASUVORK5CYII=
+</value>
+  </data>
+  <data name="dpinsert.ImageAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleLeft</value>
+  </data>
+  <data name="dpinsert.Location" type="System.Drawing.Point, System.Drawing">
+    <value>219, 0</value>
+  </data>
+  <data name="dpinsert.Size" type="System.Drawing.Size, System.Drawing">
+    <value>158, 30</value>
+  </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="dpinsert.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="dpinsert.Text" xml:space="preserve">
+    <value>Insert New Rec</value>
+  </data>
+  <data name="dpinsert.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
+  </data>
+  <data name="&gt;&gt;dpinsert.Name" xml:space="preserve">
+    <value>dpinsert</value>
+  </data>
+  <data name="&gt;&gt;dpinsert.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;dpinsert.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;dpinsert.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="dpupdate.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Top, Right</value>
+  </data>
+  <data name="dpupdate.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="dpupdate.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Century Gothic, 10.2pt</value>
+  </data>
+  <data name="dpupdate.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6
+        JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAACXBIWXMAAA3XAAAN1wFCKJt4AAAAB3RJ
+        TUUH4gQREwwFSMIguQAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAADUSURBVDhP
+        lZKxDcIwEEVDzwR0VEhsREPHAizBCoCyBQPQ0jEF1BT08B7KISvYCf7Sk6Lz9z/7nCbRBDZwgnuH39Zc
+        G9QMzvCCKxw6/Lbmmp6sTNfwgBXMwa4ha67pyZ5Es100ruEJHj2Va3rS4K80e1Q7u3kJOenpB3/ksLxv
+        DLAkPXp/FAFjKgbEFcZUvEI6xJIGh9h/xr6sxTNOIfuU//xIC7jAHrIhFuMlHJb4bc3ObjZMjpANKUmz
+        nSNAWqgOsXMasoMqGWLnCLhBtQyxM5ub7Ru8k0eSUkPzTQAAAABJRU5ErkJggg==
+</value>
+  </data>
+  <data name="dpupdate.ImageAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleLeft</value>
+  </data>
+  <data name="dpupdate.Location" type="System.Drawing.Point, System.Drawing">
+    <value>621, 0</value>
+  </data>
+  <data name="dpupdate.Size" type="System.Drawing.Size, System.Drawing">
+    <value>178, 30</value>
+  </data>
+  <data name="dpupdate.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="dpupdate.Text" xml:space="preserve">
+    <value>Search / Update</value>
+  </data>
+  <data name="dpupdate.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleRight</value>
+  </data>
+  <data name="&gt;&gt;dpupdate.Name" xml:space="preserve">
+    <value>dpupdate</value>
+  </data>
+  <data name="&gt;&gt;dpupdate.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;dpupdate.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;dpupdate.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="dpbtn.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Right</value>
+  </data>
+  <data name="dpbtn.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="dpbtn.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Century Gothic, 10.2pt</value>
+  </data>
+  <data name="dpbtn.Location" type="System.Drawing.Point, System.Drawing">
+    <value>714, 243</value>
+  </data>
+  <data name="dpbtn.MaximumSize" type="System.Drawing.Size, System.Drawing">
+    <value>80, 31</value>
+  </data>
+  <data name="dpbtn.MinimumSize" type="System.Drawing.Size, System.Drawing">
+    <value>88, 31</value>
+  </data>
+  <data name="dpbtn.Size" type="System.Drawing.Size, System.Drawing">
+    <value>88, 31</value>
+  </data>
+  <data name="dpbtn.TabIndex" type="System.Int32, mscorlib">
+    <value>14</value>
+  </data>
+  <data name="dpbtn.Text" xml:space="preserve">
+    <value>Save</value>
+  </data>
+  <data name="&gt;&gt;dpbtn.Name" xml:space="preserve">
+    <value>dpbtn</value>
+  </data>
+  <data name="&gt;&gt;dpbtn.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;dpbtn.Parent" xml:space="preserve">
+    <value>tableLayoutPanel1</value>
+  </data>
+  <data name="&gt;&gt;dpbtn.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="dpa.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="dpa.Location" type="System.Drawing.Point, System.Drawing">
+    <value>204, 43</value>
+  </data>
+  <data name="dpa.Size" type="System.Drawing.Size, System.Drawing">
+    <value>195, 24</value>
+  </data>
+  <data name="dpa.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;dpa.Name" xml:space="preserve">
+    <value>dpa</value>
+  </data>
+  <data name="&gt;&gt;dpa.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;dpa.Parent" xml:space="preserve">
+    <value>tableLayoutPanel1</value>
+  </data>
+  <data name="&gt;&gt;dpa.ZOrder" xml:space="preserve">
+    <value>19</value>
+  </data>
+  <data name="dptn.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="dptn.Location" type="System.Drawing.Point, System.Drawing">
+    <value>204, 123</value>
+  </data>
+  <data name="dptn.Size" type="System.Drawing.Size, System.Drawing">
+    <value>195, 24</value>
+  </data>
+  <data name="dptn.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;dptn.Name" xml:space="preserve">
+    <value>dptn</value>
+  </data>
+  <data name="&gt;&gt;dptn.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;dptn.Parent" xml:space="preserve">
+    <value>tableLayoutPanel1</value>
+  </data>
+  <data name="&gt;&gt;dptn.ZOrder" xml:space="preserve">
+    <value>22</value>
+  </data>
+  <data name="dpadd.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="dpadd.Location" type="System.Drawing.Point, System.Drawing">
+    <value>204, 163</value>
+  </data>
+  <data name="dpadd.Size" type="System.Drawing.Size, System.Drawing">
+    <value>195, 24</value>
+  </data>
+  <data name="dpadd.TabIndex" type="System.Int32, mscorlib">
+    <value>7</value>
+  </data>
+  <data name="&gt;&gt;dpadd.Name" xml:space="preserve">
+    <value>dpadd</value>
+  </data>
+  <data name="&gt;&gt;dpadd.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;dpadd.Parent" xml:space="preserve">
+    <value>tableLayoutPanel1</value>
+  </data>
+  <data name="&gt;&gt;dpadd.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="dpt.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="dpt.Location" type="System.Drawing.Point, System.Drawing">
+    <value>606, 163</value>
+  </data>
+  <data name="dpt.Size" type="System.Drawing.Size, System.Drawing">
+    <value>196, 24</value>
+  </data>
+  <data name="dpt.TabIndex" type="System.Int32, mscorlib">
+    <value>13</value>
+  </data>
+  <data name="&gt;&gt;dpt.Name" xml:space="preserve">
+    <value>dpt</value>
+  </data>
+  <data name="&gt;&gt;dpt.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;dpt.Parent" xml:space="preserve">
+    <value>tableLayoutPanel1</value>
+  </data>
+  <data name="&gt;&gt;dpt.ZOrder" xml:space="preserve">
+    <value>23</value>
+  </data>
+  <data name="dpm.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="dpm.Location" type="System.Drawing.Point, System.Drawing">
+    <value>606, 123</value>
+  </data>
+  <data name="dpm.Size" type="System.Drawing.Size, System.Drawing">
+    <value>196, 24</value>
+  </data>
+  <data name="dpm.TabIndex" type="System.Int32, mscorlib">
+    <value>12</value>
+  </data>
+  <data name="&gt;&gt;dpm.Name" xml:space="preserve">
+    <value>dpm</value>
+  </data>
+  <data name="&gt;&gt;dpm.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;dpm.Parent" xml:space="preserve">
+    <value>tableLayoutPanel1</value>
+  </data>
+  <data name="&gt;&gt;dpm.ZOrder" xml:space="preserve">
+    <value>12</value>
+  </data>
+  <data name="dpn.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="dpn.Location" type="System.Drawing.Point, System.Drawing">
+    <value>606, 83</value>
+  </data>
+  <data name="dpn.Size" type="System.Drawing.Size, System.Drawing">
+    <value>196, 24</value>
+  </data>
+  <data name="dpn.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="&gt;&gt;dpn.Name" xml:space="preserve">
+    <value>dpn</value>
+  </data>
+  <data name="&gt;&gt;dpn.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;dpn.Parent" xml:space="preserve">
+    <value>tableLayoutPanel1</value>
+  </data>
+  <data name="&gt;&gt;dpn.ZOrder" xml:space="preserve">
+    <value>16</value>
+  </data>
+  <data name="dpd.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="dpd.Location" type="System.Drawing.Point, System.Drawing">
+    <value>606, 43</value>
+  </data>
+  <data name="dpd.Size" type="System.Drawing.Size, System.Drawing">
+    <value>196, 24</value>
+  </data>
+  <data name="dpd.TabIndex" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="&gt;&gt;dpd.Name" xml:space="preserve">
+    <value>dpd</value>
+  </data>
+  <data name="&gt;&gt;dpd.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;dpd.Parent" xml:space="preserve">
+    <value>tableLayoutPanel1</value>
+  </data>
+  <data name="&gt;&gt;dpd.ZOrder" xml:space="preserve">
+    <value>21</value>
+  </data>
+  <data name="dplno.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="dplno.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Left</value>
+  </data>
+  <data name="dplno.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Century Gothic, 7.8pt</value>
+  </data>
+  <data name="dplno.Location" type="System.Drawing.Point, System.Drawing">
+    <value>405, 0</value>
+  </data>
+  <data name="dplno.Size" type="System.Drawing.Size, System.Drawing">
+    <value>159, 40</value>
+  </data>
+  <data name="dplno.TabIndex" type="System.Int32, mscorlib">
+    <value>23</value>
+  </data>
+  <data name="dplno.Text" xml:space="preserve">
+    <value>Name Of Pet's Owner:</value>
+  </data>
+  <data name="&gt;&gt;dplno.Name" xml:space="preserve">
+    <value>dplno</value>
+  </data>
+  <data name="&gt;&gt;dplno.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;dplno.Parent" xml:space="preserve">
+    <value>tableLayoutPanel1</value>
+  </data>
+  <data name="&gt;&gt;dplno.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="dplnp.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="dplnp.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Left</value>
+  </data>
+  <data name="dplnp.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Century Gothic, 7.8pt</value>
+  </data>
+  <data name="dplnp.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 0</value>
+  </data>
+  <data name="dplnp.Size" type="System.Drawing.Size, System.Drawing">
+    <value>101, 40</value>
+  </data>
+  <data name="dplnp.TabIndex" type="System.Int32, mscorlib">
+    <value>24</value>
+  </data>
+  <data name="dplnp.Text" xml:space="preserve">
+    <value>Name Of Pet:</value>
+  </data>
+  <data name="&gt;&gt;dplnp.Name" xml:space="preserve">
+    <value>dplnp</value>
+  </data>
+  <data name="&gt;&gt;dplnp.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;dplnp.Parent" xml:space="preserve">
+    <value>tableLayoutPanel1</value>
+  </data>
+  <data name="&gt;&gt;dplnp.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="dpla.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="dpla.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Left</value>
+  </data>
+  <data name="dpla.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Century Gothic, 7.8pt</value>
+  </data>
+  <data name="dpla.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 40</value>
+  </data>
+  <data name="dpla.Size" type="System.Drawing.Size, System.Drawing">
+    <value>40, 40</value>
+  </data>
+  <data name="dpla.TabIndex" type="System.Int32, mscorlib">
+    <value>25</value>
+  </data>
+  <data name="dpla.Text" xml:space="preserve">
+    <value>Age:</value>
+  </data>
+  <data name="&gt;&gt;dpla.Name" xml:space="preserve">
+    <value>dpla</value>
+  </data>
+  <data name="&gt;&gt;dpla.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;dpla.Parent" xml:space="preserve">
+    <value>tableLayoutPanel1</value>
+  </data>
+  <data name="&gt;&gt;dpla.ZOrder" xml:space="preserve">
+    <value>14</value>
+  </data>
+  <data name="dpltn.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="dpltn.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Left</value>
+  </data>
+  <data name="dpltn.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Century Gothic, 7.8pt</value>
+  </data>
+  <data name="dpltn.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 120</value>
+  </data>
+  <data name="dpltn.Size" type="System.Drawing.Size, System.Drawing">
+    <value>144, 40</value>
+  </data>
+  <data name="dpltn.TabIndex" type="System.Int32, mscorlib">
+    <value>26</value>
+  </data>
+  <data name="dpltn.Text" xml:space="preserve">
+    <value>Telephone Number:</value>
+  </data>
+  <data name="&gt;&gt;dpltn.Name" xml:space="preserve">
+    <value>dpltn</value>
+  </data>
+  <data name="&gt;&gt;dpltn.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;dpltn.Parent" xml:space="preserve">
+    <value>tableLayoutPanel1</value>
+  </data>
+  <data name="&gt;&gt;dpltn.ZOrder" xml:space="preserve">
+    <value>17</value>
+  </data>
+  <data name="dplg.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="dplg.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Left</value>
+  </data>
+  <data name="dplg.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Century Gothic, 7.8pt</value>
+  </data>
+  <data name="dplg.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 80</value>
+  </data>
+  <data name="dplg.Size" type="System.Drawing.Size, System.Drawing">
+    <value>66, 40</value>
+  </data>
+  <data name="dplg.TabIndex" type="System.Int32, mscorlib">
+    <value>27</value>
+  </data>
+  <data name="dplg.Text" xml:space="preserve">
+    <value>Gender:</value>
+  </data>
+  <data name="&gt;&gt;dplg.Name" xml:space="preserve">
+    <value>dplg</value>
+  </data>
+  <data name="&gt;&gt;dplg.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;dplg.Parent" xml:space="preserve">
+    <value>tableLayoutPanel1</value>
+  </data>
+  <data name="&gt;&gt;dplg.ZOrder" xml:space="preserve">
+    <value>20</value>
+  </data>
+  <data name="dpf.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="dpf.Location" type="System.Drawing.Point, System.Drawing">
+    <value>204, 203</value>
+  </data>
+  <data name="dpf.Size" type="System.Drawing.Size, System.Drawing">
+    <value>195, 24</value>
+  </data>
+  <data name="dpf.TabIndex" type="System.Int32, mscorlib">
+    <value>8</value>
+  </data>
+  <data name="&gt;&gt;dpf.Name" xml:space="preserve">
+    <value>dpf</value>
+  </data>
+  <data name="&gt;&gt;dpf.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;dpf.Parent" xml:space="preserve">
+    <value>tableLayoutPanel1</value>
+  </data>
+  <data name="&gt;&gt;dpf.ZOrder" xml:space="preserve">
+    <value>11</value>
+  </data>
+  <data name="dpg.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="dpg.Items" xml:space="preserve">
+    <value>Male</value>
+  </data>
+  <data name="dpg.Items1" xml:space="preserve">
+    <value>Female</value>
+  </data>
+  <data name="dpg.Location" type="System.Drawing.Point, System.Drawing">
+    <value>204, 83</value>
+  </data>
+  <data name="dpg.Size" type="System.Drawing.Size, System.Drawing">
+    <value>195, 24</value>
+  </data>
+  <data name="dpg.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;dpg.Name" xml:space="preserve">
+    <value>dpg</value>
+  </data>
+  <data name="&gt;&gt;dpg.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;dpg.Parent" xml:space="preserve">
+    <value>tableLayoutPanel1</value>
+  </data>
+  <data name="&gt;&gt;dpg.ZOrder" xml:space="preserve">
+    <value>18</value>
+  </data>
+  <data name="dpladd.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="dpladd.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Left</value>
+  </data>
+  <data name="dpladd.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Century Gothic, 7.8pt</value>
+  </data>
+  <data name="dpladd.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 160</value>
+  </data>
+  <data name="dpladd.Size" type="System.Drawing.Size, System.Drawing">
+    <value>65, 40</value>
+  </data>
+  <data name="dpladd.TabIndex" type="System.Int32, mscorlib">
+    <value>29</value>
+  </data>
+  <data name="dpladd.Text" xml:space="preserve">
+    <value>Address:</value>
+  </data>
+  <data name="&gt;&gt;dpladd.Name" xml:space="preserve">
+    <value>dpladd</value>
+  </data>
+  <data name="&gt;&gt;dpladd.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;dpladd.Parent" xml:space="preserve">
+    <value>tableLayoutPanel1</value>
+  </data>
+  <data name="&gt;&gt;dpladd.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="dpld.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="dpld.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Left</value>
+  </data>
+  <data name="dpld.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Century Gothic, 7.8pt</value>
+  </data>
+  <data name="dpld.Location" type="System.Drawing.Point, System.Drawing">
+    <value>405, 40</value>
+  </data>
+  <data name="dpld.Size" type="System.Drawing.Size, System.Drawing">
+    <value>59, 40</value>
+  </data>
+  <data name="dpld.TabIndex" type="System.Int32, mscorlib">
+    <value>30</value>
+  </data>
+  <data name="dpld.Text" xml:space="preserve">
+    <value>Doctor:</value>
+  </data>
+  <data name="&gt;&gt;dpld.Name" xml:space="preserve">
+    <value>dpld</value>
+  </data>
+  <data name="&gt;&gt;dpld.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;dpld.Parent" xml:space="preserve">
+    <value>tableLayoutPanel1</value>
+  </data>
+  <data name="&gt;&gt;dpld.ZOrder" xml:space="preserve">
+    <value>15</value>
+  </data>
+  <data name="dpln.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="dpln.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Left</value>
+  </data>
+  <data name="dpln.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Century Gothic, 7.8pt</value>
+  </data>
+  <data name="dpln.Location" type="System.Drawing.Point, System.Drawing">
+    <value>405, 80</value>
+  </data>
+  <data name="dpln.Size" type="System.Drawing.Size, System.Drawing">
+    <value>50, 40</value>
+  </data>
+  <data name="dpln.TabIndex" type="System.Int32, mscorlib">
+    <value>31</value>
+  </data>
+  <data name="dpln.Text" xml:space="preserve">
+    <value>Nurse:</value>
+  </data>
+  <data name="&gt;&gt;dpln.Name" xml:space="preserve">
+    <value>dpln</value>
+  </data>
+  <data name="&gt;&gt;dpln.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;dpln.Parent" xml:space="preserve">
+    <value>tableLayoutPanel1</value>
+  </data>
+  <data name="&gt;&gt;dpln.ZOrder" xml:space="preserve">
+    <value>13</value>
+  </data>
+  <data name="dplm.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="dplm.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Left</value>
+  </data>
+  <data name="dplm.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Century Gothic, 7.8pt</value>
+  </data>
+  <data name="dplm.Location" type="System.Drawing.Point, System.Drawing">
+    <value>405, 120</value>
+  </data>
+  <data name="dplm.Size" type="System.Drawing.Size, System.Drawing">
+    <value>118, 40</value>
+  </data>
+  <data name="dplm.TabIndex" type="System.Int32, mscorlib">
+    <value>32</value>
+  </data>
+  <data name="dplm.Text" xml:space="preserve">
+    <value>Medical History:</value>
+  </data>
+  <data name="&gt;&gt;dplm.Name" xml:space="preserve">
+    <value>dplm</value>
+  </data>
+  <data name="&gt;&gt;dplm.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;dplm.Parent" xml:space="preserve">
+    <value>tableLayoutPanel1</value>
+  </data>
+  <data name="&gt;&gt;dplm.ZOrder" xml:space="preserve">
+    <value>10</value>
+  </data>
+  <data name="dplt.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="dplt.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Left</value>
+  </data>
+  <data name="dplt.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Century Gothic, 7.8pt</value>
+  </data>
+  <data name="dplt.Location" type="System.Drawing.Point, System.Drawing">
+    <value>405, 160</value>
+  </data>
+  <data name="dplt.Size" type="System.Drawing.Size, System.Drawing">
+    <value>82, 40</value>
+  </data>
+  <data name="dplt.TabIndex" type="System.Int32, mscorlib">
+    <value>33</value>
+  </data>
+  <data name="dplt.Text" xml:space="preserve">
+    <value>Tratement:</value>
+  </data>
+  <data name="&gt;&gt;dplt.Name" xml:space="preserve">
+    <value>dplt</value>
+  </data>
+  <data name="&gt;&gt;dplt.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;dplt.Parent" xml:space="preserve">
+    <value>tableLayoutPanel1</value>
+  </data>
+  <data name="&gt;&gt;dplt.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="dplf.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="dplf.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Left</value>
+  </data>
+  <data name="dplf.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Century Gothic, 7.8pt</value>
+  </data>
+  <data name="dplf.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 200</value>
+  </data>
+  <data name="dplf.Size" type="System.Drawing.Size, System.Drawing">
+    <value>43, 40</value>
+  </data>
+  <data name="dplf.TabIndex" type="System.Int32, mscorlib">
+    <value>34</value>
+  </data>
+  <data name="dplf.Text" xml:space="preserve">
+    <value>Fees:</value>
+  </data>
+  <data name="&gt;&gt;dplf.Name" xml:space="preserve">
+    <value>dplf</value>
+  </data>
+  <data name="&gt;&gt;dplf.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;dplf.Parent" xml:space="preserve">
+    <value>tableLayoutPanel1</value>
+  </data>
+  <data name="&gt;&gt;dplf.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="tableLayoutPanel1.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+    <value>Top, Bottom, Left, Right</value>
+  </data>
+  <data name="tableLayoutPanel1.ColumnCount" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="dpltp.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="dpltp.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Left</value>
+  </data>
+  <data name="dpltp.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Century Gothic, 7.8pt</value>
+  </data>
+  <data name="dpltp.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="dpltp.Location" type="System.Drawing.Point, System.Drawing">
+    <value>405, 200</value>
+  </data>
+  <data name="dpltp.Size" type="System.Drawing.Size, System.Drawing">
+    <value>112, 40</value>
+  </data>
+  <data name="dpltp.TabIndex" type="System.Int32, mscorlib">
+    <value>41</value>
+  </data>
+  <data name="dpltp.Text" xml:space="preserve">
+    <value>Type Of Animal</value>
+  </data>
+  <data name="&gt;&gt;dpltp.Name" xml:space="preserve">
+    <value>dpltp</value>
+  </data>
+  <data name="&gt;&gt;dpltp.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;dpltp.Parent" xml:space="preserve">
+    <value>tableLayoutPanel1</value>
+  </data>
+  <data name="&gt;&gt;dpltp.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="dptp.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="dptp.Location" type="System.Drawing.Point, System.Drawing">
+    <value>606, 203</value>
+  </data>
+  <data name="dptp.Size" type="System.Drawing.Size, System.Drawing">
+    <value>196, 24</value>
+  </data>
+  <data name="dptp.TabIndex" type="System.Int32, mscorlib">
+    <value>40</value>
+  </data>
+  <data name="&gt;&gt;dptp.Name" xml:space="preserve">
+    <value>dptp</value>
+  </data>
+  <data name="&gt;&gt;dptp.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;dptp.Parent" xml:space="preserve">
+    <value>tableLayoutPanel1</value>
+  </data>
+  <data name="&gt;&gt;dptp.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <metadata name="dOPBindingSource.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>663, 17</value>
+  </metadata>
+  <data name="dataGridView1.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="dataGridView1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 283</value>
+  </data>
+  <data name="dataGridView1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>799, 76</value>
+  </data>
+  <data name="dataGridView1.TabIndex" type="System.Int32, mscorlib">
+    <value>39</value>
+  </data>
+  <data name="&gt;&gt;dataGridView1.Name" xml:space="preserve">
+    <value>dataGridView1</value>
+  </data>
+  <data name="&gt;&gt;dataGridView1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridView, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;dataGridView1.Parent" xml:space="preserve">
+    <value>tableLayoutPanel1</value>
+  </data>
+  <data name="&gt;&gt;dataGridView1.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="dpnp.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="dpnp.Location" type="System.Drawing.Point, System.Drawing">
+    <value>204, 3</value>
+  </data>
+  <data name="dpnp.Size" type="System.Drawing.Size, System.Drawing">
+    <value>195, 24</value>
+  </data>
+  <data name="dpnp.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;dpnp.Name" xml:space="preserve">
+    <value>dpnp</value>
+  </data>
+  <data name="&gt;&gt;dpnp.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;dpnp.Parent" xml:space="preserve">
+    <value>tableLayoutPanel1</value>
+  </data>
+  <data name="&gt;&gt;dpnp.ZOrder" xml:space="preserve">
+    <value>24</value>
+  </data>
+  <data name="dpno.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="dpno.Location" type="System.Drawing.Point, System.Drawing">
+    <value>606, 3</value>
+  </data>
+  <data name="dpno.Size" type="System.Drawing.Size, System.Drawing">
+    <value>196, 24</value>
+  </data>
+  <data name="dpno.TabIndex" type="System.Int32, mscorlib">
+    <value>9</value>
+  </data>
+  <data name="&gt;&gt;dpno.Name" xml:space="preserve">
+    <value>dpno</value>
+  </data>
+  <data name="&gt;&gt;dpno.Type" xml:space="preserve">
+    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;dpno.Parent" xml:space="preserve">
+    <value>tableLayoutPanel1</value>
+  </data>
+  <data name="&gt;&gt;dpno.ZOrder" xml:space="preserve">
+    <value>25</value>
+  </data>
+  <data name="tableLayoutPanel1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>15, 61</value>
+  </data>
+  <data name="tableLayoutPanel1.RowCount" type="System.Int32, mscorlib">
+    <value>8</value>
+  </data>
+  <data name="tableLayoutPanel1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>805, 362</value>
+  </data>
+  <data name="tableLayoutPanel1.TabIndex" type="System.Int32, mscorlib">
+    <value>35</value>
+  </data>
+  <data name="tableLayoutPanel1.Visible" type="System.Boolean, mscorlib">
+    <value>False</value>
+  </data>
+  <data name="&gt;&gt;tableLayoutPanel1.Name" xml:space="preserve">
+    <value>tableLayoutPanel1</value>
+  </data>
+  <data name="&gt;&gt;tableLayoutPanel1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.TableLayoutPanel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tableLayoutPanel1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;tableLayoutPanel1.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="tableLayoutPanel1.LayoutSettings" type="System.Windows.Forms.TableLayoutSettings, System.Windows.Forms">
+    <value>&lt;?xml version="1.0" encoding="utf-16"?&gt;&lt;TableLayoutSettings&gt;&lt;Controls&gt;&lt;Control Name="dpltp" Row="5" RowSpan="1" Column="2" ColumnSpan="1" /&gt;&lt;Control Name="dptp" Row="5" RowSpan="1" Column="3" ColumnSpan="1" /&gt;&lt;Control Name="dataGridView1" Row="7" RowSpan="2" Column="0" ColumnSpan="4" /&gt;&lt;Control Name="dplnp" Row="0" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="dplt" Row="4" RowSpan="1" Column="2" ColumnSpan="1" /&gt;&lt;Control Name="dpbtn" Row="6" RowSpan="1" Column="3" ColumnSpan="1" /&gt;&lt;Control Name="dplf" Row="5" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="dpladd" Row="4" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="dpadd" Row="4" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="dplno" Row="0" RowSpan="1" Column="2" ColumnSpan="1" /&gt;&lt;Control Name="dplm" Row="3" RowSpan="1" Column="2" ColumnSpan="1" /&gt;&lt;Control Name="dpf" Row="5" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="dpm" Row="3" RowSpan="1" Column="3" ColumnSpan="1" /&gt;&lt;Control Name="dpln" Row="2" RowSpan="1" Column="2" ColumnSpan="1" /&gt;&lt;Control Name="dpla" Row="1" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="dpld" Row="1" RowSpan="1" Column="2" ColumnSpan="1" /&gt;&lt;Control Name="dpn" Row="2" RowSpan="1" Column="3" ColumnSpan="1" /&gt;&lt;Control Name="dpltn" Row="3" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="dpg" Row="2" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="dpa" Row="1" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="dplg" Row="2" RowSpan="1" Column="0" ColumnSpan="1" /&gt;&lt;Control Name="dpd" Row="1" RowSpan="1" Column="3" ColumnSpan="1" /&gt;&lt;Control Name="dptn" Row="3" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="dpt" Row="4" RowSpan="1" Column="3" ColumnSpan="1" /&gt;&lt;Control Name="dpnp" Row="0" RowSpan="1" Column="1" ColumnSpan="1" /&gt;&lt;Control Name="dpno" Row="0" RowSpan="1" Column="3" ColumnSpan="1" /&gt;&lt;/Controls&gt;&lt;Columns Styles="Percent,25,Percent,25,Percent,25,Percent,25" /&gt;&lt;Rows Styles="Percent,11.11111,Percent,11.11111,Percent,11.11111,Percent,11.11111,Percent,11.11111,Percent,11.11111,Percent,11.11111,Percent,11.11111,Percent,11.11111" /&gt;&lt;/TableLayoutSettings&gt;</value>
+  </data>
+  <metadata name="pets_ClinicDataSet.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
+  <metadata name="petsClinicDataSetBindingSource.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>199, 17</value>
+  </metadata>
+  <metadata name="pets_ClinicDataSet1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>473, 17</value>
+  </metadata>
+  <metadata name="dOPBindingSource.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>663, 17</value>
+  </metadata>
+  <metadata name="pets_ClinicDataSet1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>473, 17</value>
+  </metadata>
+  <metadata name="dOPTableAdapter.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>848, 17</value>
+  </metadata>
+  <data name="nOPDataGridViewTextBoxColumn.HeaderText" xml:space="preserve">
+    <value>NOP</value>
+  </data>
+  <data name="nOPODataGridViewTextBoxColumn.HeaderText" xml:space="preserve">
+    <value>NOPO</value>
+  </data>
+  <data name="aDataGridViewTextBoxColumn.HeaderText" xml:space="preserve">
+    <value>A</value>
+  </data>
+  <data name="gDataGridViewTextBoxColumn.HeaderText" xml:space="preserve">
+    <value>G</value>
+  </data>
+  <data name="tNDataGridViewTextBoxColumn.HeaderText" xml:space="preserve">
+    <value>TN</value>
+  </data>
+  <data name="aDDataGridViewTextBoxColumn.HeaderText" xml:space="preserve">
+    <value>AD</value>
+  </data>
+  <data name="fDataGridViewTextBoxColumn.HeaderText" xml:space="preserve">
+    <value>F</value>
+  </data>
+  <data name="dDataGridViewTextBoxColumn.HeaderText" xml:space="preserve">
+    <value>D</value>
+  </data>
+  <data name="nDataGridViewTextBoxColumn.HeaderText" xml:space="preserve">
+    <value>N</value>
+  </data>
+  <data name="mDataGridViewTextBoxColumn.HeaderText" xml:space="preserve">
+    <value>M</value>
+  </data>
+  <data name="tDataGridViewTextBoxColumn.HeaderText" xml:space="preserve">
+    <value>T</value>
+  </data>
+  <data name="dATDataGridViewTextBoxColumn.HeaderText" xml:space="preserve">
+    <value>DAT</value>
+  </data>
+  <data name="tPDataGridViewTextBoxColumn.HeaderText" xml:space="preserve">
+    <value>TP</value>
+  </data>
+  <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
+    <value>7, 16</value>
+  </data>
+  <data name="$this.Size" type="System.Drawing.Size, System.Drawing">
+    <value>1044, 538</value>
+  </data>
+  <data name="&gt;&gt;pets_ClinicDataSet.Name" xml:space="preserve">
+    <value>pets_ClinicDataSet</value>
+  </data>
+  <data name="&gt;&gt;pets_ClinicDataSet.Type" xml:space="preserve">
+    <value>Pets_Clinic.Pets_ClinicDataSet, Pets_ClinicDataSet.Designer.cs.dll, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;petsClinicDataSetBindingSource.Name" xml:space="preserve">
+    <value>petsClinicDataSetBindingSource</value>
+  </data>
+  <data name="&gt;&gt;petsClinicDataSetBindingSource.Type" xml:space="preserve">
+    <value>System.Windows.Forms.BindingSource, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;pets_ClinicDataSet1.Name" xml:space="preserve">
+    <value>pets_ClinicDataSet1</value>
+  </data>
+  <data name="&gt;&gt;pets_ClinicDataSet1.Type" xml:space="preserve">
+    <value>Pets_Clinic.Pets_ClinicDataSet1, Pets_ClinicDataSet1.Designer.cs.dll, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;dOPBindingSource.Name" xml:space="preserve">
+    <value>dOPBindingSource</value>
+  </data>
+  <data name="&gt;&gt;dOPBindingSource.Type" xml:space="preserve">
+    <value>System.Windows.Forms.BindingSource, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;dOPTableAdapter.Name" xml:space="preserve">
+    <value>dOPTableAdapter</value>
+  </data>
+  <data name="&gt;&gt;dOPTableAdapter.Type" xml:space="preserve">
+    <value>Pets_Clinic.Pets_ClinicDataSet1TableAdapters.DOPTableAdapter, Pets_ClinicDataSet1.Designer.cs.dll, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </data>
+  <data name="&gt;&gt;nOPDataGridViewTextBoxColumn.Name" xml:space="preserve">
+    <value>nOPDataGridViewTextBoxColumn</value>
+  </data>
+  <data name="&gt;&gt;nOPDataGridViewTextBoxColumn.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridViewTextBoxColumn, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;nOPODataGridViewTextBoxColumn.Name" xml:space="preserve">
+    <value>nOPODataGridViewTextBoxColumn</value>
+  </data>
+  <data name="&gt;&gt;nOPODataGridViewTextBoxColumn.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridViewTextBoxColumn, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;aDataGridViewTextBoxColumn.Name" xml:space="preserve">
+    <value>aDataGridViewTextBoxColumn</value>
+  </data>
+  <data name="&gt;&gt;aDataGridViewTextBoxColumn.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridViewTextBoxColumn, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;gDataGridViewTextBoxColumn.Name" xml:space="preserve">
+    <value>gDataGridViewTextBoxColumn</value>
+  </data>
+  <data name="&gt;&gt;gDataGridViewTextBoxColumn.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridViewTextBoxColumn, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tNDataGridViewTextBoxColumn.Name" xml:space="preserve">
+    <value>tNDataGridViewTextBoxColumn</value>
+  </data>
+  <data name="&gt;&gt;tNDataGridViewTextBoxColumn.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridViewTextBoxColumn, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;aDDataGridViewTextBoxColumn.Name" xml:space="preserve">
+    <value>aDDataGridViewTextBoxColumn</value>
+  </data>
+  <data name="&gt;&gt;aDDataGridViewTextBoxColumn.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridViewTextBoxColumn, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;fDataGridViewTextBoxColumn.Name" xml:space="preserve">
+    <value>fDataGridViewTextBoxColumn</value>
+  </data>
+  <data name="&gt;&gt;fDataGridViewTextBoxColumn.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridViewTextBoxColumn, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;dDataGridViewTextBoxColumn.Name" xml:space="preserve">
+    <value>dDataGridViewTextBoxColumn</value>
+  </data>
+  <data name="&gt;&gt;dDataGridViewTextBoxColumn.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridViewTextBoxColumn, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;nDataGridViewTextBoxColumn.Name" xml:space="preserve">
+    <value>nDataGridViewTextBoxColumn</value>
+  </data>
+  <data name="&gt;&gt;nDataGridViewTextBoxColumn.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridViewTextBoxColumn, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;mDataGridViewTextBoxColumn.Name" xml:space="preserve">
+    <value>mDataGridViewTextBoxColumn</value>
+  </data>
+  <data name="&gt;&gt;mDataGridViewTextBoxColumn.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridViewTextBoxColumn, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tDataGridViewTextBoxColumn.Name" xml:space="preserve">
+    <value>tDataGridViewTextBoxColumn</value>
+  </data>
+  <data name="&gt;&gt;tDataGridViewTextBoxColumn.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridViewTextBoxColumn, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;dATDataGridViewTextBoxColumn.Name" xml:space="preserve">
+    <value>dATDataGridViewTextBoxColumn</value>
+  </data>
+  <data name="&gt;&gt;dATDataGridViewTextBoxColumn.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridViewTextBoxColumn, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;tPDataGridViewTextBoxColumn.Name" xml:space="preserve">
+    <value>tPDataGridViewTextBoxColumn</value>
+  </data>
+  <data name="&gt;&gt;tPDataGridViewTextBoxColumn.Type" xml:space="preserve">
+    <value>System.Windows.Forms.DataGridViewTextBoxColumn, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>Data_Of_Patient</value>
+  </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>System.Windows.Forms.UserControl, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+</root>
